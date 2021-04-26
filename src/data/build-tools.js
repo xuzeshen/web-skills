@@ -111,7 +111,7 @@ export const buildtoolsCollection = {
 									["Prettier - What is Prettier?", "https://prettier.io/docs/en/index.html"],
 									["Let the computer do the formatting", "https://blog.bitsrc.io/let-the-computer-do-the-formatting-ddb799e8a068"],
 									["Prettier - Playground", "https://prettier.io/playground/"],
-									["Prettier - Integrating with Linters", "https://prettier.io/docs/en/integrating-with-linters.html"] 
+									["Prettier - Integrating with Linters", "https://prettier.io/docs/en/integrating-with-linters.html"]
 								]
 							},
 						},
@@ -181,7 +181,8 @@ export const buildtoolsCollection = {
 								links: [
 									["Typescript - Documentation", "http://www.typescriptlang.org/docs/home.html"],
 									["Typescript: Why should one use i?", "https://medium.com/tech-tajawal/typescript-why-should-one-use-it-a539faa92010"],
-									["Why TypeScript is the best way to write Front-end in 2019", "https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164"]
+									["Why TypeScript is the best way to write Front-end in 2019", "https://medium.com/@jtomaszewski/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164"],
+									["一篇缺失的 TypeScript 介绍", "https://zhuanlan.zhihu.com/p/28494162"],
 								]
 							},
 						}
