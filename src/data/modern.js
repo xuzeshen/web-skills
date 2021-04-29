@@ -49,6 +49,7 @@ export const modernCollection = {
 									["WebRTC samples", "https://webrtc.github.io/samples/"],
 									["Wikipedia - WebRTC", "https://en.wikipedia.org/wiki/WebRTC"],
 									["What Web Can Do Today - WebRTC", "https://whatwebcando.today/realtime.html"],
+                                    ["WebRTC for curious", "https://webrtcforthecurious.com/"],
 								]
 							}
 						},
